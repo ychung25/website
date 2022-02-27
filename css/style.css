@@ -215,9 +215,10 @@ body
     border-top-right-radius: 30px;
 }
 
-.bottom p
+.bottom-width
 {
     width: 500px;
+    margin: 0 auto 0 auto;
 }
 
 .credit
