@@ -1,0 +1,239 @@
+body
+{
+    margin: 0;
+    text-align: center;
+}
+
+/************************
+******** TOP STYLE*******
+*************************/
+.top
+{
+    background-color: #E9DAC1;
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.top-top-image
+{
+    height: 110px;
+    position: relative;
+    left: 350px;
+    margin-bottom: -80px;
+    margin-top: 40px;
+}
+
+.top-name
+{
+    font-family: 'Oooh Baby', cursive;
+    font-size: 3.5rem;
+    font-weight:bold;
+    margin: 0;
+}
+
+.top-hobby
+{
+    font-family: 'Oooh Baby', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.top-hobby-span
+{
+    text-decoration:underline;
+}
+
+.top-middle-image
+{
+    height: 110px;
+    position: relative;
+    right:120px;
+    vertical-align: top;
+    margin-top: -30px;
+    
+}
+
+.top-bottom-image
+{
+    height: 300px;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+
+/************************
+***** MIDDLE STYLE ******
+*************************/
+.middle-background
+{
+    background-color: #E9DAC1;
+}
+.middle
+{
+    background-color: #F7ECDE;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.mypicture
+{
+   border-radius: 70%;
+   width: 100px;
+   margin-top: 50px;
+}
+
+.middle-text
+{
+    width: 500px;
+    margin: 0 auto 0 auto;
+}
+
+.headerstyle
+{
+    font-family: 'Indie Flower', cursive;
+    font-size: 3rem;
+    color: #54BAB9;
+}
+
+.textstyle
+{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.3rem;
+    margin: 0 auto 0 auto;
+}
+
+.titlestyle
+{
+    color: #54BAB9;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0 auto 0 auto;   
+}
+
+.textstyle span
+{
+    display: block;
+}
+
+.middle-dots
+{
+    border-style: dotted;
+    width: 10%;
+    border-width: 5px 0 0 0;
+    margin: 60px auto 60px auto;
+    color:dimgray;
+}
+
+.skill-container
+{
+    margin-bottom: 120px;
+}
+
+.skill-container img
+{
+    width: 200px;
+}
+
+.coding
+{
+    width: 500px;
+    margin: 0 auto 80px auto;
+}
+
+.coding img
+{
+    float: left;
+    margin-right: 50px;
+}
+
+.coding p
+{
+    text-align: left;
+}
+
+.fishing
+{
+    width: 500px;
+    margin: 0 auto 0 auto;
+}
+
+.fishing img
+{
+    float: right;
+    margin-left:4px;
+}
+
+.fishing p
+{
+    text-align: left;
+}
+
+.contact-me-container
+{
+    width: 500px;
+    margin: 0 auto 0 auto;
+}
+
+.button-container
+{
+    padding-bottom: 80px;
+    padding-top: 40px;
+}
+
+.button {
+    background: #3498db;
+    border-radius: 28px;
+    font-family: 'Indie Flower', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    background: #54BAB9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background: #54BAB9;
+    background-image: linear-gradient(to bottom, #54BAB9, #3498db);
+    text-decoration: none;
+  }
+
+
+/************************
+******* TOP STYLE********
+*************************/
+.bottom-background
+{
+    background-color: #F7ECDE;
+}
+
+.bottom
+{
+    background-color: #54BAB9;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.credit
+{
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+.copyright
+{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+
+.textstyle-bottom
+{
+    font-family: 'Indie Flower', cursive;
+    font-size: 0.9rem;
+}
+
+.kanye
+{
+    font-weight: bolder;
+}
