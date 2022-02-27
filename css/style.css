@@ -120,7 +120,7 @@ body
 .middle-dots
 {
     border-style: dotted;
-    width: 10%;
+    width: 100px;
     border-width: 5px 0 0 0;
     margin: 60px auto 60px auto;
     color:dimgray;
@@ -128,7 +128,7 @@ body
 
 .skill-container
 {
-    margin-bottom: 120px;
+    margin-bottom: 160px;
 }
 
 .skill-container img
