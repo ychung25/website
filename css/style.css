@@ -213,12 +213,14 @@ body
     background-color: #54BAB9;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .bottom-width
 {
     width: 500px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
 }
 
 .credit
@@ -235,9 +237,7 @@ body
 
 .textstyle-bottom
 {
-    font-family: 'Indie Flower', cursive;
     font-size: 14px;
-    text-decoration: none;
 }
 
 .kanye
